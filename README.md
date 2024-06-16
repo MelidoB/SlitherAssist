@@ -38,7 +38,9 @@
 
 <p></p>
   <p>
-    SlitherAssist is designed to enhance your Slither.io gameplay when using controllers, providing smoother and more precise control by working with reWASD. It keeps your mouse cursor close to your snake's head, ensuring responsive movements and a competitive edge.
+    SlitherAssist improves Slither.io control when using a controller. It keeps the cursor near your snake's head for better responsiveness. Connect your controller using tools like reWASD to map it to mouse movements.
+
+
   </p>
 </div>
 
