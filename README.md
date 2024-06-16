@@ -29,7 +29,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/MelidoB/SlitherAssist">
-    <img src="https://github.com/MelidoB/SlitherAssist/blob/feature/integrate-dynamic-cursor/assets/Logo.jpg" alt="Logo" width="80" height="80">
+    <img src="https://github.com/MelidoB/SlitherAssist/blob/feature/integrate-dynamic-cursor/assets/Logo.webp" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">SlitherAssist</h3>
