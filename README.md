@@ -29,7 +29,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/MelidoB/SlitherAssist">
-    <img src="https://github.com/MelidoB/SlitherAssist/assets/Logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/MelidoB/SlitherAssist/blob/feature/integrate-dynamic-cursor/assets/Logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">SlitherAssist</h3>
@@ -71,8 +71,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot](https://github.com/MelidoB/SlitherAssist/blob/main/images/image6.png?raw=true)](https://example.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -154,13 +152,13 @@ To set up `SlitherAssist` on your local machine, follow these steps:
 Below are examples demonstrating how to use SlitherAssist effectively:
 
 ### Showing Interface Working
-![SlitherAssist Interface](https://github.com/MelidoB/SlitherAssist/SlitherAssist_Interface.gif?raw=true)
+![SlitherAssist Interface](https://github.com/MelidoB/SlitherAssist/blob/feature/integrate-dynamic-cursor/assets/SlitherAssist_Interface.gif?raw=true)
 
 ### In-Game Usage
-![SlitherAssist In Game](https://github.com/MelidoB/SlitherAssist/assets/SlitherAssist_In_Game.gif?raw=true)
+![SlitherAssist In Game](https://github.com/MelidoB/SlitherAssist/blob/feature/integrate-dynamic-cursor/assets/SlitherAssist_In_Game.gif?raw=true)
 
 ### Winning with SlitherAssist
-![SlitherAssist Winning](https://github.com/MelidoB/SlitherAssist/assets/SlitherAssist_Winning.gif?raw=true)
+![SlitherAssist Winning](https://github.com/MelidoB/SlitherAssist/blob/feature/integrate-dynamic-cursor/assets/SlitherAssist_Winning.gif?raw=true)
 
 These GIFs show how SlitherAssist enhances your Slither.io gameplay by keeping the cursor close to the snake’s head and providing smoother control.
 
