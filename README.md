@@ -33,7 +33,8 @@
   </a>
 
 <h3 align="center">SlitherAssist</h3>
-(https://github.com/MelidoB/SlitherAssist/releases/tag/v1.0.0)
+
+[![Download SlitherAssist v1.0.0](https://img.shields.io/badge/Download-v1.0.0-blue?style=for-the-badge&logo=github)](https://github.com/MelidoB/SlitherAssist/releases/tag/v1.0.0)]
 
 <p></p>
   <p>
