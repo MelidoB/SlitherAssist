@@ -33,7 +33,9 @@
   </a>
 
 <h3 align="center">SlitherAssist</h3>
+(https://github.com/MelidoB/SlitherAssist/releases/tag/v1.0.0)
 
+<p></p>
   <p>
     SlitherAssist enhances your Slither.io gameplay by working with reWASD to provide smoother and more precise control. It keeps the mouse cursor close to your snake's head, ensuring responsive movements.
   </p>
