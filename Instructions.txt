@@ -1,0 +1,4 @@
+1) https://www.imagetools.org/trim
+2) https://www.remove.bg/upload
+3) SpaceResizer.py
+4) DynamicCursor.py
