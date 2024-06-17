@@ -1,0 +1,8 @@
+# SlitherAssist Quick Start
+
+1. Open `SlitherAssist.exe`.
+2. Follow the on-screen instructions.
+
+### Optional:
+- Need controller-to-mouse mapping? Use `SlitherControl.exe` in the `ConnectController` folder.
+- Check `mapping.html` for controller mappings.
